@@ -38,35 +38,59 @@ node_modules
 ## 강의 내용
 
 ### [#1] Intro
-- Windows Users Read This
+#### [Windows Users Read This](https://academy.nomadcoders.co/courses/287802/lectures/4430455)
 
-- Requirements
+#### [Requirements](https://academy.nomadcoders.co/courses/287802/lectures/4430456)
+- npm
+- Node.js
+- Yarn
 
-- #1-1. Introduction to React
-  - [github nomad]()
-  - [github hopelife]()
-  - [강의 영상(nomadcorders)](https://academy.nomadcoders.co/courses/287802/lectures/4430457)
-  - [강의 영상(youtube)]()
 
-- Quiz: Introduction to React
+#### #1-1. Introduction to React
+##### 참조
+- [github nomad]()
+- [github hopelife]()
+- [강의 영상(nomadcorders)](https://academy.nomadcoders.co/courses/287802/lectures/4430457)
+- [강의 영상(youtube)](https://www.youtube.com/watch?v=sM2p1EqTlw4)
 
-- #1-2. What are we building
-  - [github nomad]()
-  - [github hopelife]()
-  - [강의 영상(nomadcorders)](https://academy.nomadcoders.co/courses/287802/lectures/4430459)
-  - [강의 영상(youtube)]()
+##### 개요
+- 
 
-- #1-3. Introduction to Create React App
-  - [github nomad]()
-  - [github hopelife]()
-  - [강의 영상(nomadcorders)](https://academy.nomadcoders.co/courses/287802/lectures/4430460)
-  - [강의 영상(youtube)]()
+##### 내용
+> 
 
-- #1-4. Hello World with React and CRA
-  - [github nomad]()
-  - [github hopelife]()
-  - [강의 영상(nomadcorders)](https://academy.nomadcoders.co/courses/287802/lectures/4430461)
-  - [강의 영상(youtube)]()
+
+
+#### Quiz: Introduction to React
+- React is a framework?
+- 
+
+#### #1-2. What are we building
+- [github nomad]()
+- [github hopelife]()
+- [강의 영상(nomadcorders)](https://academy.nomadcoders.co/courses/287802/lectures/4430459)
+- [강의 영상(youtube)](https://www.youtube.com/watch?v=A7959XlYHtY)
+
+
+#### #1-3. Introduction to Create React App
+- [github nomad]()
+- [github hopelife]()
+- [강의 영상(nomadcorders)](https://academy.nomadcoders.co/courses/287802/lectures/4430460)
+- [강의 영상(youtube)]()
+
+
+#### #1-4. Hello World with React and CRA
+- [github nomad]()
+- [github hopelife]()
+- [강의 영상(nomadcorders)](https://academy.nomadcoders.co/courses/287802/lectures/4430461)
+- [강의 영상(youtube)]()
+
+
+
+
+
+
+
 
 #### 참조
 
